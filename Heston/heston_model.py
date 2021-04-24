@@ -1,5 +1,4 @@
 # Implements the Heston Model using the discretization from Gatheral
-#
 import numpy as np
 import math
 
